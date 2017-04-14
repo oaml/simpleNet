@@ -1,6 +1,6 @@
 ## Description
 
-A simple neural network library written in C++ using only the standart library.
+A simple neural network library written in C++ using only the standard library.
 
 ## Implemented activation functions
 
